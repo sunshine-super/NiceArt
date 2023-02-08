@@ -1,0 +1,1 @@
+<!-- wp:pattern {"slug":"reebox-child/footer-default"} /-->
